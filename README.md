@@ -1,8 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on URL Phishing Detection System
+- 🔭 I’m currently working on Final Year Project: URL Phishing Detection System
 - 🌱 I’m currently studying Diploma in Network Security
 - ⚡ I love to play futsal & Mobile Legends: Bang Bang
-- 📫 How to reach me: mukhrizfitry@gmail.com
 - 😄 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
