@@ -38,6 +38,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiellu4&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiellu4&theme=radical" alt="GitHub Streak" width="47%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiellu4&layout=compact&theme=radical" width="60%"/>
 </div>
 
 ---
