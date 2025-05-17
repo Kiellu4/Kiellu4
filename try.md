@@ -36,19 +36,16 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiellu4&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiellu4&theme=radical" alt="GitHub Streak" width="47%"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kiellu4&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn link here]
-- Email: [Your Email here]
