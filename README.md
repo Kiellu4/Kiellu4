@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Kiel's+Github💻;I'm+a+Network+Security+Student😎;" alt="Typing SVG" />
+</p>
+
+
 # 💫 About Me:
 - 🎓 I’m currently pursuing a **Diploma in Network Security** at the German-Malaysian Institute.
 - 🔭 Working on my **Final Year Project: URL Phishing Detection System**.
