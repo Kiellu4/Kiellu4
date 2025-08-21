@@ -38,11 +38,11 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=7paf0z4ta0sdfmpruqycmudaq&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=7paf0z4ta0sdfmpruqycmudaq?si=1623353576314b6c&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <a href="https://open.spotify.com/user/7paf0z4ta0sdfmpruqycmudaq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7paf0z4ta0sdfmpruqycmudaq&count=3&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/7paf0z4ta0sdfmpruqycmudaq?si=1623353576314b6c">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7paf0z4ta0sdfmpruqycmudaq?si=1623353576314b6c&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
