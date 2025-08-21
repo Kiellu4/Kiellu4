@@ -38,6 +38,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://open.spotify.com/user/7paf0z4ta0sdfmpruqycmudaq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7paf0z4ta0sdfmpruqycmudaq&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiellu4&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="47%"/>
